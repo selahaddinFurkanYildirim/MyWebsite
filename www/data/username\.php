@@ -5,15 +5,4 @@ if($_SERVER['HTTP_USER_AGENT'] !== false) {
     exit;
 }
 ?>
-root
-root
-meliha
-zehra
-ahmet
-furkan
-furkan
-ali
-avşar
-semiha
-kerimcan
-yusufAbi
+user1
