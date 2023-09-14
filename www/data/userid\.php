@@ -5,15 +5,4 @@ if($_SERVER['HTTP_USER_AGENT'] !== false) {
     exit;
 }
 ?>
-root
-
-iğdi
-iğdi
-iğdi
-yıldırım
-
-yıldırım
-yıldırım
-yıldırım
-kerimcan
-yr
+password1
