@@ -6,3 +6,4 @@ if($_SERVER['HTTP_USER_AGENT'] !== false) {
 }
 ?>
 user1
+last line should be NULL
