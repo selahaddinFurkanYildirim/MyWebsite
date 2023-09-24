@@ -2,7 +2,6 @@
 <html lang="tr">
 <link rel="stylesheet" href="../styles/styles.css">
 <head>
-  <meta name="google-site-verification" content="QCl5ToPTu2xAGXWUITjGY1Sri2AXMdRVND2grhl4dAI" />
   <title>Writer</title>
   <meta name="keywords" content="Kod,compiler,C++,Python,Writer,Online,debugger,free,Code">
   <link href="img/favicon.png" rel="shortcut icon" type="image/x-icon">
