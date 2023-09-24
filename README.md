@@ -1,3 +1,3 @@
 # MyWebsite
 This is my php webpage.
-Link is "https://selahaddinfurkanyildirim.serveo.net/"
+Link is "https://writer.serveo.net/"
