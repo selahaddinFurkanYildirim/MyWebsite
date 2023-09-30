@@ -1,3 +1,3 @@
 # MyWebsite
 This is my php webpage.
-Link is <a href="https://writer.serveo.net">"https://writer.serveo.net/"</a>
+Link is <button onclick="location.href='https://writer.serveo.net'">"https://writer.serveo.net/"</a>
