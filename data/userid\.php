@@ -17,4 +17,3 @@ yıldırım
 yıldırım
 kerimcan
 yr
-aydın
