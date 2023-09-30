@@ -6,15 +6,3 @@ exit;
 
 ?>
 tmpuser
-root
-meliha
-zehra
-ahmet
-furkan
-furkan
-ali
-avşar
-semiha
-kerimcan
-yusufAbi
-sinan
