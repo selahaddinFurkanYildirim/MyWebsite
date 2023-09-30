@@ -6,14 +6,3 @@ exit;
 
 ?>
 
-root
-iğdi
-iğdi
-iğdi
-      
-
-yıldırım
-yıldırım
-yıldırım
-kerimcan
-yr
